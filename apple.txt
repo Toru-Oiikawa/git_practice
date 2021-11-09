@@ -2,3 +2,4 @@ apple
 banana the second time
 pie the third time
 
+this is a new line from version(try clone from remote repository)
